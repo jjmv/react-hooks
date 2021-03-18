@@ -12,6 +12,7 @@ function Greeting({defaultName = ''}) {
   }
 
   return (
+    // Testing
     <div>
       <form>
         <label htmlFor="name">Name: </label>
